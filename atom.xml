@@ -4,7 +4,7 @@
   <title><![CDATA[Hack-a-thon.jp]]></title>
   <link href="http://hack-a-thon.github.io//atom.xml" rel="self"/>
   <link href="http://hack-a-thon.github.io//"/>
-  <updated>2013-11-04T19:43:24+09:00</updated>
+  <updated>2013-11-04T23:16:05+09:00</updated>
   <id>http://hack-a-thon.github.io//</id>
   <author>
     <name><![CDATA[morizyun]]></name>
@@ -709,6 +709,18 @@ Googleが行っているウェブサイトのクロールやインデックス�
 <h2>あとがき</h2>
 
 <p><a href="http://www.amazon.co.jp/gp/product/4478022542/"><img border="0" src="http://ecx.images-amazon.com/images/I/51fh1hsMpYL._SS400_.jpg" width="150" style="float: left; margin: 0 20px 20px 0;" ></a>「<strong><a href="http://www.amazon.co.jp/gp/product/4478022542">ディズニー こころをつかむ 9つの秘密</a></strong>」で特に印象に残った点は以上です。扱うコンテンツの質は違うにせよ、ベースの発送はリーン・スタートアップのようなWeb・スマホサービスの開発にも通じる箇所が沢山あると思います。具体的な内容も多くて読みやすいのでお時間があれば、ぜひ手にとって見てください！</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Tywin Lannister Quote]]></title>
+    <link href="http://hack-a-thon.github.io//blog/tywin-lannister-quote/"/>
+    <updated>2013-06-15T09:28:00+09:00</updated>
+    <id>http://hack-a-thon.github.io//blog/tywin-lannister-quote</id>
+    <content type="html"><![CDATA[<p>A nice quote by Tywin Lannister taken from <em>A Storm of Sword</em> book.</p>
+
+<blockquote><p>The greatest fools are ofttimes more clever then the men who laugh at them.</p><footer><strong>Tywin Lannister</strong> <cite>A Storm of Swords</cite></footer></blockquote>
+
 ]]></content>
   </entry>
   
