@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://hack-a-thon.github.io//sitemap.xml 

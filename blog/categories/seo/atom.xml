@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: SEO | Hack-a-thon.jp]]></title>
+  <link href="http://hack-a-thon.github.io//blog/categories/seo/atom.xml" rel="self"/>
+  <link href="http://hack-a-thon.github.io//"/>
+  <updated>2013-11-04T19:42:00+09:00</updated>
+  <id>http://hack-a-thon.github.io//</id>
+  <author>
+    <name><![CDATA[morizyun]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Google Analytics 入門本で一番わかり易い！『世界一やさしい Google Anatilytics アクセス解析入門』]]></title>
+    <link href="http://hack-a-thon.github.io//blog/most-easy-google-analytics-book-review/"/>
+    <updated>2013-10-03T06:15:00+09:00</updated>
+    <id>http://hack-a-thon.github.io//blog/most-easy-google-analytics-book-review</id>
+    <content type="html"><![CDATA[<p><a href="http://www.amazon.co.jp/gp/product/4798038415/ref=as_li_qf_sp_asin_il?ie=UTF8&camp=247&creative=1211&creativeASIN=4798038415&linkCode=as2&tag=morizyun00-22"><img border="0" src="http://ws.assoc-amazon.jp/widgets/q?_encoding=UTF8&ASIN=4798038415&Format=_SL160_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=marketing-morizyun-22" width="150" style="float: left; margin: 0 20px 20px 0;" ></a><img src="http://www.assoc-amazon.jp/e/ir?t=morizyun00-22&l=as2&o=9&a=4798038415" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />Google Anatlyticsは無料で使えるツールでは考えられないほど機能が充実しているし、見ていればアクセス解析をしている気分になれます。でも本当に大切なことは『数字を見る』ことではなく、『<strong>サービスの強みの強化と問題点のあぶり出し</strong>』を行ってより望むべき結果を得ることだと思います。</p>
+
+<p>そんなことを考えている僕のようなWeb解析初心者の方が、『<strong>アクセス解析を行う上での思考法</strong>』を知ることができる書籍「<strong><a href="http://www.amazon.co.jp/gp/product/4798038415/ref=as_li_qf_sp_asin_il?ie=UTF8&amp;camp=247&amp;creative=1211&amp;creativeASIN=4798038415&amp;linkCode=as2&amp;tag=morizyun00-22">無料でできる！世界一やさしい Google Anatilytics アクセス解析入門</a></strong>」の紹介です。</p>
+
+<p>早速、この書籍の中から特に印象に残った点をピックアップして紹介します。</p>
+
+<!-- more -->
+
+
+<br style="clear: both;" />
+
+
+<h2>「守りのアクセス解析」と「攻めのアクセス解析」</h2>
+
+<p>『<strong>守りのアクセス解析</strong>』とはGoogle Analyticsから定形の状態取得を行ってWebサイトの状態を把握すること。人間で言えば健康診断のようなもの。逆に『<strong>攻めのアクセス解析</strong>』とは、分析する人が必要とするデータを抽出して、改善点を洗い出すこと。人間で言えばドクターが勘と経験を頼りに診断するようなもの。
+この考え方は一見当たり前の内容ですがAnalyticsを使って解析をしているとすごく納得できる言葉です！</p>
+
+<h2>Ri-Turban'sの法則</h2>
+
+<p>Ri-Turban'sの法則とは以下の考え方です。</p>
+
+<pre>
+Recognized (認識し)
+Interest (興味を持ち)
+------------------------------------------
+Trust (信頼し)
+Usability & UserExperience(サイトが使いやすく、快適で)
+Risk Hedges(リスクを避け)
+Benefit(メリットを考慮し)
+Affrmative(購買を肯定し)
+------------------------------------------
+Needs&Wants(必要、もしくは欲しいので申し込む)
+Surprise(驚くような結果で満足度を得る)
+</pre>
+
+
+<p>Ri-Turban'sは、集客 => 接客 => アフターフォローまでの最低限のチェックリスト(思考のフレームワーク)です。ユーザーの心理面を意識して、問題点をチェックする指標として考えられています。</p>
+
+<p>また、この Ri-Turban'sを使いこなすための方策の一例は次の通りです。</p>
+
+<pre>
+Recognized (認識)、Interest (興味) => ランディングページ、検索ワード、直帰率など
+
+Turban 
+=> 前年自サイト・他媒体・前月との比較を行い、現状を正確に把握する
+=> アドバンスドセグメントを活用してユーザー視点で仮説を立てる
+=> コンバージョンの高い、効果的な集客ルートを探しだす
+=> 弱点の補強と強みの強化をするための改善
+=> A/Bテストによって顧客の行動を正確に把握する
+</pre>
+
+
+<h2>Google Analytics トラッキング設定の活用</h2>
+
+<p><a href="https://support.google.com/analytics/answer/1033867?hl=ja&ref_topic=1032998" title="Google Analytics カスタムキャンペーン URL 生成ツール"><img src="http://farm4.staticflickr.com/3721/10059288844_b501d4cb2e.jpg" width="500" height="389" alt="Google Analytics カスタムキャンペーン URL 生成ツール"></a></p>
+
+<p>Google Analyticsには、<strong><a href="https://support.google.com/analytics/answer/1033863?hl=ja&amp;ref_topic=1032998">カスタムキャンペーン</a></strong>という機能があります。この機能は「参照元」や「メディアの種類」などの情報を追加したURLを発行して、ウェブサイトやアプリへの訪問数を増やす最も効果的な方法を特定するための機能です。</p>
+
+<p><strong><a href="https://support.google.com/analytics/answer/1033867?hl=ja&amp;ref_topic=1032998">Google Analytics カスタムキャンペーン URL 生成ツール</a></strong>でカスタムキャンペーン用のURLを生成できるので、ぜひ試してみて下さい！</p>
+
+<h2>まとめ</h2>
+
+<p>この本はGoogle Analyticsの使い方を細かく説明するよりは、どんなふうにアクセス解析を考えるべきかに重点を置いて書かれています。正直言ってGoogle Analyticsを学ぶときの最初の一冊目としては最適だと思います＾＾</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[『最新SEO動向 京都大学との共同研究によるデータ分析と検索エンジン』に出席しました！]]></title>
+    <link href="http://hack-a-thon.github.io//blog/google-analytics-seo-kyoto/"/>
+    <updated>2013-09-26T04:00:00+09:00</updated>
+    <id>http://hack-a-thon.github.io//blog/google-analytics-seo-kyoto</id>
+    <content type="html"><![CDATA[<p><a href="http://www.amazon.co.jp/gp/product/4534051212/ref=as_li_qf_sp_asin_il?ie=UTF8&camp=247&creative=1211&creativeASIN=4534051212&linkCode=as2&tag=morizyun00-22"><img border="0" src="http://ws.assoc-amazon.jp/widgets/q?_encoding=UTF8&ASIN=4534051212&Format=_SL160_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=marketing-morizyun-22" width="150" style="float: left; margin: 0 20px 20px 0;" ></a><img src="http://www.assoc-amazon.jp/e/ir?t=morizyun00-22&l=as2&o=9&a=4534051212" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />『<strong><a href="http://jane.or.jp/event/10075/">京都大学との共同研究によるデータ分析と検索エンジンの変化から見る最新SEO動向</a></strong>』に参加しました。1時間ほどのセッションでしたが、最新の研究成果をベースにした発表だったので有益な情報満載でした。今回はその中から特に印象に残った点をピックアップして紹介します。</p>
+
+<!-- more -->
+
+
+<br style="clear: both;" />
+
+
+<h2>検索エンジンが重視している要素</h2>
+
+<p>サイバーエージェントと京都大学とで検索エンジンの傾向を分析。その研究の中で特に検索結果のランキングとの相関が高かったのは次の項目とのことです。</p>
+
+<pre>
+(1) 被リンク総数(Naverまとめ、OKWave、はてなブックマークなど)
+(2) ソーシャルシグナル(Google+、Twitterカードなど)
+(3) プレーンテキスト総文字数、単語数、bodyサイズもリッチなものが好まれる
+</pre>
+
+
+<p>もちろん<code>titleタグやhxタグ</code>へのキーワードの挿入なども重要ですが、この辺りは今ではどのサイトでも実施していることなので、やるべきことではあるが差別化のポイントではなくなりつつあるようです。</p>
+
+<h2>今やるべきSEO対策のポイント</h2>
+
+<pre>
+* ペナルティの回避
+* 良質なリンクを集める
+* コンテンツの強化
+</pre>
+
+
+<p>当然の内容ばかりですが、だからこそよりこの3つをより突き詰めて考える事が重要だと思います。また優良なSEO業者と良好な関係を築くことで最新情報のキャッチアップと適切な施策の選定を進めることができるとのことでした。</p>
+
+<h3>ペナルティの回避</h3>
+
+<p>最新の検索エンジンのトレンドは、不適切なコンテンツをランクアップさせないことが特に顕著だそうです。例えば、strongタグを大量に使ったり、アンカーテキストを使い過ぎると急激にランキングが下がることがあるそうです。常に最新のSEO情報をキャッチする必要がありそうです。</p>
+
+<h3>優良な被リンクを集める</h3>
+
+<p>良質なコンテンツは、自然リンクを生みます。トラフィックを生むリンクが被リンクとして有効と言われています。被リンクを集めるための施策としては次の方法が効果的です。</p>
+
+<pre>
+(1) ゴールデンタイム 20:00-24:00に記事を配信して拡散させる
+(2) Twitterカード、Google+でのシェアを重視する
+(3) Naverまとめにまとめやすいようにコンテンツを細分化する
+(4) OKWaveの回答に使いやすいように、回答になるようなコンテンツを作る
+(5) はてなブックマークでブックマークされやすいように備忘録的なコンテンツを作る
+</pre>
+
+
+<p>ただし小手先な対策よりも、最終的には人が見てどれだけ有益かという点を重視すべきなようです。</p>
+
+<h3>コンテンツ強化</h3>
+
+<p>例えば、野球に関するサイトが次のように2つあったとします。</p>
+
+<pre>
+(A) 野球 => プロ野球、巨人のコンテンツを持つ
+(B) 野球 => プロ野球、メジャーリーグ、野球用品、巨人、ヤンキース、グローブのコンテンツを持つ
+</pre>
+
+
+<p>この場合は、(B)のサイトの方が本質的にはリンクが上がりやすいです。理由は、共起語(野球とグローブ、バット)など関連情報をいかに組み込むか大切だからです。</p>
+
+<h2>情報収集</h2>
+
+<p><strong><a href="https://support.google.com/webmasters/answer/35769?hl=ja">Googleのウェブマスター向けガイドライン</a></strong>は必読。</p>
+
+<p><strong><a href="http://www.suzukikenichi.com/blog/">海外のSEO対策で極めるアクセスアップ術</a></strong>や<strong><a href="http://www.sem-r.com/">SEMリサーチ</a></strong>などのブログもつねにキャッチアップすべき。</p>
+
+<p>それ以外ではSNSやカンファレンス、SEO Meetupなどを活用すべきとのことでした。</p>
+
+<h2>まとめ</h2>
+
+<pre>
+* リンクが益々重要
+* コンテンツはキーワード情報を網羅して関連度を高める => 最重要
+* コンテンツを工夫してリンクを集める
+* リンクはソーシャルメディア中心にあつめる(シグナル)
+* ペナルティにならないように最新情報をアップデートする
+</pre>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Google検索エンジン最適化スターターガイド 要点ピックアップ[無料][SEO]]]></title>
+    <link href="http://hack-a-thon.github.io//blog/seo-google-search-engine-optimization/"/>
+    <updated>2013-08-21T22:10:00+09:00</updated>
+    <id>http://hack-a-thon.github.io//blog/seo-google-search-engine-optimization</id>
+    <content type="html"><![CDATA[<p><a href="https://static.googleusercontent.com/external_content/untrusted_dlcp/www.google.co.jp/ja/jp/webmasters/docs/search-engine-optimization-starter-guide-ja.pdf" title="Google検索エンジン最適化スターターガイド" style="float: left; margin: 0 20px 20px 0;" ><img src="http://farm4.staticflickr.com/3708/9553045473_1bb561565a_m.jpg" width="172" height="240" alt="Google検索エンジン最適化スターターガイド"></a>『<strong><a href="https://static.googleusercontent.com/external_content/untrusted_dlcp/www.google.co.jp/ja/jp/webmasters/docs/search-engine-optimization-starter-guide-ja.pdf">Google検索エンジン最適化スターターガイド</a></strong>』はGoogleがPDFで無料配布している、SEO対策における教科書のような資料です。</p>
+
+<p>この基礎的な内容を実践していくことで、検索エンジンからしっかりとクローリングされ、インデックスされやすいWebサイトを構築できるそうです！</p>
+
+<!-- more -->
+
+
+<p>この記事では、『<strong><a href="https://static.googleusercontent.com/external_content/untrusted_dlcp/www.google.co.jp/ja/jp/webmasters/docs/search-engine-optimization-starter-guide-ja.pdf">Google検索エンジン最適化スターターガイド</a></strong>』の中で特に印象に残った点を幾つかピックアップしてみたいと思います。</p>
+
+<h2>(1) 適切なページタイトル、descriptionをつける</h2>
+
+<p>HTML内の<code>title</code>タグのタイトルや<code>description</code>メタタグの内容はGoogleの検索結果に表示される最も重要な項目の一つです。</p>
+
+<p>手間はかかりますが、以下の内容を着実に実践していくことが大切なようです。</p>
+
+<pre>
+titleタグ: ページごとに固有の簡潔で説明的なタイトルをつける
+descriptionメタタグ: ページごとに固有で、ページ内容を正確にまとめる
+</pre>
+
+
+<h2>(2) WebサイトのURL構造を最適化する</h2>
+
+<p>WebサイトのURL構造(ルーティング)は、検索エンジンがクローリングしやすくなるための重要な要素の一つです。エンジニアの立場からも、SEOを意識したルーティング構成になるように常に心がけることが大切なようです。</p>
+
+<pre>
+* URLにコンテンツに関連した単語を入れる
+* 1つのページのURLは1つにする
+* URLのディレクトリ構造はできるだけシンプルに
+* 論理的かつ人間が理解できるURLになるようにコンテンツを整理する
+* セッションIDはURLではなくCookieを使う
+* できるだけ不必要なパラメータを排除する
+</pre>
+
+
+<p>このURL構造については、『<strong><a href="https://support.google.com/webmasters/answer/76329?hl=ja">Google ウェブマスターツール内のヘルプ Google と相性の良い URL の作成</a></strong>』にも詳しく書かれているのでぜひ参考にしてみてください。</p>
+
+<h2>(3) ナビゲーションをわかりやすくする</h2>
+
+<p>ナビゲーションはユーザーが適切にコンテンツに到達するためにとても重要な要素です。トップページからユーザーがどのように詳細ページにたどり着くかを常に意識してサイトを構築することが大切です。また、検索エンジンからみたナビゲーションも大切だそうです。</p>
+
+<pre>
+* パンくずリストでユーザーの利便性を向上させる
+* URLの一部を取り除いても、URLがきちんと意味を持ち続ける(ページが存在する)ようにする
+* ユーザー向けのHTMLサイトマップと検索エンジン向けのサイトマップ(XML)を用意する
+* 404ページを適切に配置する(役に立つ404ページを作る)
+</pre>
+
+
+<h2>(4) 質の高いコンテンツを提供する</h2>
+
+<p>SNSでの口コミや掲示板やブログへの紹介が<strong>自然発生</strong>するような質の高いコンテンツを提供することはGoogle検索エンジンの中でも最も重要な点ですので、特に意識してコンテンツを作っていきましょう！</p>
+
+<pre>
+* コンテンツを探しだす人を想像してその人が使いそうなキーワードをコンテンツ内に設置
+* 既存のコンテンツのコピーや自分のサイト内で重複したコンテンツは作らない
+</pre>
+
+
+<h2>(5) 適切なアンカーテキストを設置しよう</h2>
+
+<p>アンカーテキストとは<strong>リンクが設定されたテキスト</strong>のことです。このアンカーテキストもSEOにおいては重要な要素となるそうです。アンカーテキストにおいては次のことに気をつけましょう。</p>
+
+<pre>
+* 簡潔で説明的なテキストを心がける
+* リンクだとすぐに分かるようなCSS/テキストスタイルを使う
+* 内部リンクのアンカーテキストも簡潔で意味のあるテキストにする
+</pre>
+
+
+<h2>(6) 画像のalt属性は必ず設定</h2>
+
+<p><strong>画像のalt属性</strong>は何らかの理由で画像が表示されない際にユーザーに代替情報を知らせることと、検索エンジンに画像に関する情報を知らせることの２つの意味があります。alt属性もアンカーテキストなどと同じく、<strong>簡潔で説明的なテキスト</strong>を心がけましょう。</p>
+
+<h2>(7) 見出しタグを適切に伝えよう</h2>
+
+<p><code>h1, h2, h3, h4, h5, h6</code>タグを<strong>見出しタグ</strong>と呼びます。この見出しタグはHTML内での重要性を表すために使います。目次を作るようにコンテンツの何が主要なのかを考えて、コンテンツのポイントとなる部分に見出しタグを設置するようにしましょう。</p>
+
+<h2>(8) コメント欄や掲示板にはnofollowを設定しよう</h2>
+
+<p>コメント欄や掲示板などユーザーが気軽に書き込める場所は、時としてスパムの標的となります。スパムサイトへのリンクがページ内に存在すると、<strong>Googleがそのサイト自体の評価を下げてしまう可能性があります</strong>。これを防ぐためにユーザーが自由に操作できるリンクにはrel属性の値に<code>no follow</code>をセットするようにしましょう。</p>
+
+<p>このスパムコメントへの対策は、『<strong><a href="https://support.google.com/webmasters/answer/81749?hl=ja">Google ウェブマスターツール内のヘルプ ユーザー生成スパム</a></strong>』にも詳しく書かれているのでぜひ参考にしてみてください。</p>
+
+<h2>(9) モバイルサイトをGoogleに知らせよう</h2>
+
+<p>Googleモバイルの検索結果は携帯電話からの利用を想定しており、デスクトップ版とは検索結果が異なります。Googleにモバイルサイトとして判定されているかをチェックするには、『<strong>Googleモバイル検索でsite:演算子を使って検索</strong>』を実施します。この検索結果に表示されない原因は主に２点です。</p>
+
+<h3>(Ａ) Googleがモバイルサイトを発見できていない</h3>
+
+<p><strong>モバイルサイトマップ</strong>を作成して配信することでこの問題を解決できます。このモバイルサイトマップについては、『<strong><a href="https://support.google.com/webmasters/topic/8493?hl=ja&amp;ref_topic=20986">Google ウェブマスターツール内のヘルプ 特殊なサイトマップ（動画、画像、ニュース、モバイルなど）</a></strong>』に詳しく書かれてます。</p>
+
+<h3>(Ｂ) Googlebotがモバイルサイトにアクセスできない</h3>
+
+<p>モバイルサイトの中には、携帯電話以外からのモバイルサイトへのアクセスを禁止している場合があります。そのため、Googlebotがモバイルサイトにアクセスできないケースがあるそうです。モバイルサイトの収集用のGooglebotは、ユーザーエージェント情報が“Googlebot-Mobile”です。このGooglebotもモバイルサイトにアクセスできるようにしましょう。</p>
+
+<h3>(Ｃ) モバイルサイトであることを正しく判定できない</h3>
+
+<p>Googlebotが携帯電話で閲覧できないと判断されるページは、モバイルサイトのインデックスがされません。この判定はさまざまな情報に基づき行われるそうですが、例えばXHTML MobileやCompact HTMLなど携帯端末向けのフォーマットのDTDを宣言しているかなどを確認しましょう。</p>
+
+<h2>(10) 携帯ユーザーを適切に誘導しよう</h2>
+
+<p>デスクトップ検索でモバイルページが表示されたり、モバイル検索でデスクトップページが表示される問題があります。この問題のベストな対策はリダイレクトさせることです。Googleはこのリダイレクトによって両者の関係に気づき、デスクトップ検索からはデスクトップのページを、モバイル検索からはモバイルページを表示するようになるそうです。この場合はデスクトップの個別ページからモバイルの個別ページへリダイレクトするように、一致するコンテンツ間でリダイレクトするように心がけましょう。</p>
+
+<h2>(11) 正しい方法でサイトを宣伝して被リンクを獲得しよう</h2>
+
+<p>ソーシャルメディアの特性を理解して、ユーザーが興味をもつコンテンツに絞って紹介するようにしたり、関連するコミュニティへ参加していくことで自然な被リンクの獲得を目指しましょう。</p>
+
+<h2>(12) 便利なツールを積極的に活用しよう</h2>
+
+<p><strong><a href="https://www.google.com/webmasters/tools/home?hl=ja">ウェブマスターツール</a></strong><br/>
+利用することで、もし自分のサイトに問題があればその問題を特定するのに役立ち、検索結果上のパフォーマンスを高めることにつながる可能性があります。</p>
+
+<p><strong><a href="http://www.google.co.jp/intl/ja/analytics/">Google Analytics</a></strong><br/>
+ユーザーがどのような経路でサイトへたどり着き、サイト内でどのような行動を取ったかを知ることができる。また、Google Analytics内のはウェブサイトオプティマイザーによって、コンバージョン率を高めるための変更点の提案もおこなってくれます。</p>
+
+<p><strong><a href="https://support.google.com/webmasters/answer/35769?hl=ja">ウェブマスター向けガイドライン（品質に関するガイドライン）</a></strong><br/>
+デザインとコンテンツ、技術、品質に関するガイドラインです。</p>
+
+<p><strong><a href="http://googlewebmastercentral-ja.blogspot.jp/">Google ウェブマスター向け公式ブログ</a></strong><br/>
+Googleが行っているウェブサイトのクロールやインデックスに関する、最新の情報をゲットできる素晴らしいブログです！</p>
+
+<h2>このテーマに関係する書籍</h2>
+
+<p><a href="http://www.amazon.co.jp/gp/product/4774148148/"><img border="0" src="http://ecx.images-amazon.com/images/I/51Vei9MED7L._SS500_.jpg" width="150" style="float: left; margin: 0 20px 20px 0;" ></a>『<strong><a href="http://www.amazon.co.jp/gp/product/4774148148">繁盛するWebの秘訣「ウェブ解析入門」</a></strong>』はアクセス解析を始めたい方や、もう少し勉強したいという初心者〜中級者の手前くらいまでの人にオススメの書籍です。特に継続的な改善を繰り返すことの重要性を実感できる点が素晴らしいです！</p>
+]]></content>
+  </entry>
+  
+</feed>
