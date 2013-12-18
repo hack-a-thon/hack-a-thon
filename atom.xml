@@ -4,7 +4,7 @@
   <title><![CDATA[Hack-a-thon.jp]]></title>
   <link href="http://hack-a-thon.github.io//atom.xml" rel="self"/>
   <link href="http://hack-a-thon.github.io//"/>
-  <updated>2013-11-20T21:07:03+09:00</updated>
+  <updated>2013-12-18T22:40:24+09:00</updated>
   <id>http://hack-a-thon.github.io//</id>
   <author>
     <name><![CDATA[morizyun]]></name>
@@ -12,6 +12,102 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[12/15(日)にWebAPIつかってアプリをつくろうハッカソン 〜教育編〜を開催しました！]]></title>
+    <link href="http://hack-a-thon.github.io//web-api-hack-a-thon-1117/"/>
+    <updated>2013-12-18T22:30:00+09:00</updated>
+    <id>http://hack-a-thon.github.io//web-api-hack-a-thon-1117</id>
+    <content type="html"><![CDATA[<p><img src="http://farm6.staticflickr.com/5489/11433736523_6bc5ab9c1d_z.jpg" width="640" height="360" alt="Evernote Camera Roll 20131217 223035"></p>
+
+<p>12/15(日)に<strong><a href="https://www.facebook.com/knowledgecommons">KnowledgeCommons</a></strong>さんと一緒に、<strong><a href="http://connpass.com/event/3890/">WebAPIつかってアプリをつくろうハッカソン 〜教育編〜</a></strong>を開催しました！</p>
+
+<p>プランナーさん、デザイナさん、エンジニアさんが互いに協力をすることで、1人では作るのが難しいアプリを1日という短い時間で作ってしまおうという企画です。実は、今回で4回開催しているシリーズのハッカソンです。</p>
+
+<p>この記事では、</p>
+
+<pre>
+(1) ハッカソンの意義
+(2) 今回のハッカソンで制作されたプロダクト
+(3) これからハッカソンでやっていきたいこと
+</pre>
+
+
+<p>をつらつらと書いていきます。</p>
+
+<!-- more -->
+
+
+<br style="clear:both;"/>
+
+
+<h2>(1) ハッカソンの意義</h2>
+
+<p>まずは、この記事の作者で、12/15のハッカソンの運営者の一人である<strong><a href="https://twitter.com/zyunnosuke">@zyunnosuke</a></strong>が想っている「ハッカソン」の意義について。</p>
+
+<p>『<strong>百聞は一見に如かず</strong>』という言葉が示すように、プロトタイプはどんな説明よりもシンプルにプロダクトの可能性を示すことができます。言い換えるとプロトタイプを素早くつくり上げることは、アイデアを育てていく上でとても大切な一歩だと思います。</p>
+
+<p>またWebを中心として「<strong>技術</strong>」は進歩をして、世の中がどんどん便利になってきました。でも、教育のIT化や高齢化、医療予算の増加など技術が手助けできる分野はまだまだ沢山あると信じています。こういった問題はたった１日のハッカソンででは解決できるものではないでしょう。でもその小さな行動が、偉大な一歩になり得ると信じています。</p>
+
+<p>こちらは当日お話をさせて頂いた「<strong>ハッカソンで大切にしていること</strong>」を紹介したスライドです。</p>
+
+<iframe src="http://www.slideshare.net/slideshow/embed_code/29321603" width="597" height="486" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen> </iframe>
+
+
+<p> <div style="margin-bottom:5px"> <strong> <a href="https://www.slideshare.net/morizyun/web-api-29321603" title="Web apiをつかってアプリをつくろうハッカソン〜教育編〜" target="_blank">Web apiをつかってアプリをつくろうハッカソン〜教育編〜</a> </strong> from <strong><a href="http://www.slideshare.net/morizyun" target="_blank">morizyun</a></strong> </div></p>
+
+<h2>(2) 今回のハッカソンで制作されたプロダクト</h2>
+
+<p>12/15(日)に10:00-20:00まで4つのチームがプロダクトを制作しました。</p>
+
+<h3>ASK Researchers</h3>
+
+<p>普段学校の先生をされているプランナーさんのアイデアから生まれたプロダクト。生徒の方から、「宇宙はいつ生まれたのか？」といった質問がきて直ぐに回答できなかったとする。すると生徒はグーグルで検索をするでしょう。でもグーグルはいつも正しい答えだけをだすとは限らず、生徒は間違った答えを覚えてしまいます。そんな問題を解決したいという気持ちから生まれたのが『<strong>ASK Researchers</strong>』で、大学教授などの専門家が実名で生徒の質問に回答してくれるサービスです。</p>
+
+<p><img src="http://farm6.staticflickr.com/5526/11434206235_3367f3c41d_z.jpg" width="640" height="406" alt="IMG_3186"></p>
+
+<h3>チェーン式英単語ラーニング「Jackie Chain」</h3>
+
+<p>1月から教育分野のスタートアップの起業を予定しているエンジニアさんのアイデアから生まれたプロダクト。関連する英単語をチェーンのように覚えていく英単語学習のゲームアプリです。もちろん、あの有名人とは全くの無関係ですw</p>
+
+<p><a href="http://jackie-chain.herokuapp.com/"><img src="http://farm6.staticflickr.com/5524/11434349394_cfc01c126f_z.jpg" width="640" height="419" alt="IMG_3193"></a></p>
+
+<p>ちなみにアプリはこちら、<strong><a href="http://jackie-chain.herokuapp.com/">Jackie Chain</a></strong>。<br/>(怒られなかったら1週間位動かすつもりですw)</p>
+
+<h3>Show&amp;Tell</h3>
+
+<p>エンジニアの<strong><a href="https://twitter.com/sarutando">@sarutando</a></strong>のアイデアから生まれたプロダクト。アメリカで行われている「show &amp; tell」という「自分の好きなものをプレゼンテーションする教育手法」をヒントに、自分の好きなプロダクトをネット上で紹介するサービス。たった１日でしたがひと通りの機能ができていて、完成度も高かったです！</p>
+
+<p><img src="http://farm6.staticflickr.com/5530/11434432945_f010fff2d0_z.jpg" width="640" height="340" alt="名称未設定"></p>
+
+<h3>Internet School「FREE」</h3>
+
+<p>教育分野のNaverまとめなサービス。Youtubeやslideshareなどのネット教材を効率的に学習するためのまとめです。チェックテストまで制作できるようになる予定とのこと。ニーズはかなりありそう！</p>
+
+<p><img src="http://farm8.staticflickr.com/7436/11434597276_fc25d1cf35_z.jpg" width="640" height="391" alt="名称未設定"></p>
+
+<h2>(3) これからハッカソンでやっていきたいこと</h2>
+
+<p>今回は、<strong><a href="https://www.facebook.com/knowledgecommons">KnowlegeCommons</a></strong>の小室さんに企画段階から当日の運営までかなり助けて頂いたおかげで、コレまでのハッカソンよりもスムーズに進行ができかなと思います。</p>
+
+<p>また、施設面でも<a href="https://www.facebook.com/EdTechLab">Edtech Labさん</a>をお借りできたおかげで、今までにないくらい快適に開発ができたと思います。</p>
+
+<p>一方で<strong><a href="https://twitter.com/zyunnosuke">@zyunnosuke</a></strong>自身のオーガナイザーとしての実力不足を痛感中です。次回はハッカソンの雰囲気作りや、コミュニケーションの円滑化を意識して活動をしていくつもりです。</p>
+
+<h2>おまけ</h2>
+
+<p>ハッカソンの前日夜に食べ物にアタったらしく、それから5日間苦しんでいます。ハッカソンで一番大切なのは、体調管理なのかも。。。</p>
+
+<h2>Special Thanks</h2>
+
+<p>(1)で書いたハッカソン ＆『<strong>百聞は一見に如かず</strong>』の組合せは、尊敬するTanoさんのスライドから拝借しました。こちらのスライドはハッカソンの「<strong>良さ</strong>」を表現している素晴らしいスライドです。</p>
+
+<iframe src="http://www.slideshare.net/slideshow/embed_code/28726085" width="597" height="486" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen> </iframe>
+
+
+<p> <div style="margin-bottom:5px"> <strong> <a href="https://www.slideshare.net/MakotoTano/hackathon-ad-28726085" title="2013/12/15 Hackathon宣伝" target="_blank">2013/12/15 Hackathon宣伝</a> </strong> from <strong><a href="http://www.slideshare.net/MakotoTano" target="_blank">Makoto Tano</a></strong> </div></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[MA9 Mashup Battle 2nd Stage 出場の39作品から厳選した6作品を紹介]]></title>
